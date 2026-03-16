@@ -1,0 +1,10 @@
+.env
+*.db
+*.db-wal
+*.db-shm
+logs/
+reports/output/
+__pycache__/
+*.pyc
+.venv/
+venv/
